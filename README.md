@@ -1,4 +1,4 @@
 # Machine-Learning-Projects
 
 Regression:
-# Walmart Retail Sales Analysis Prediction:
+## Walmart Retail Sales Analysis Prediction:
